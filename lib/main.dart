@@ -17,6 +17,7 @@ void main() {
               decoration: TextDecoration.underline,
               letterSpacing: 3.0,
               color: Colors.teal,
+              fontFamily: "ZenDots"
           ),
         ),
         floatingActionButton: FloatingActionButton(
